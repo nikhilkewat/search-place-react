@@ -1,0 +1,9 @@
+.keyboard-shortcut {
+    font-size: 12px;
+    border: 1px solid rgb(222, 226, 230);
+    border-radius: 2px;
+    height: 24px;
+    padding: 0 4px;
+    display: inline-block;
+    line-height: 24px;
+  }

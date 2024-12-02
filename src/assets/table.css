@@ -1,0 +1,32 @@
+.results-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    border:none;
+  }
+  
+  .results-table th,
+  .results-table td {
+    padding: 8px;
+    border-bottom: 1px solid rgb(222, 226, 230);
+  }
+  
+    .results-table th {
+    text-align: justify;
+    font-weight: 700;
+    background-color: rgb(248, 249, 250);
+    border-bottom: 2px solid #2b2a2a;
+  }
+  
+  .table-placeholder {
+    /* text-align: center; */
+    font-size: 16px;
+    color: rgb(108, 117, 125);
+    padding: 20px 0;
+  }
+
+  .flag {
+    display: flex;
+    align-items: center;
+    gap:2%;
+  }
